@@ -1,4 +1,4 @@
-# ![Smilii Logo](logo-url-here) Smilii Hosting
+# ![Smilii Logo](https://getsmilii.com/wp-content/uploads/2022/06/smilii-logo-v2.png) Smilii Hosting
 
 Welcome to the GitHub Organization of [Smilii](https://getsmilii.com), a next-generation web hosting company with a vision to accelerate the internet, one website at a time. We are driven by our passion for exceptional customer experiences, unrivaled uptime, and powerful server solutions.
 
